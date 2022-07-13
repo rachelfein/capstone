@@ -1,5 +1,5 @@
 <div>
-<img style="float: right;"src="Images/new_orleans_airbnb_page.png" width="550"/>
+<img align="right" src="Images/new_orleans_airbnb_page.png" width="650"/>
 </div>
 
 # New Orleans Airbnb Analysis
