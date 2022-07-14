@@ -16,9 +16,11 @@ The dataset in this analysis comes from [Kaggle](https://www.kaggle.com/datasets
 ---
 This analysis was completed for Sarah Alter, a private investor, who is interested in expanding her vacation rental portfolio to New Orleans, LA. Alter is new to the New Orleans vacation rental market and wants to use this analysis as a guide as she starts her search for a new property. To help Alter reach her goal, exploratory data analysis is used to get an overview of the market. EDA gives Alter a general understanding of what features seem to stick out in well performing rentals and neighborhoods. This analysis also provides a predictive model for nightly price. A predictive model will help Alter reach her goal by giving her a metric to compare properties currently on the market based on the property’s features. 
 
-A [report](https://www.bizneworleans.com/n-o-tourism-spending-break-records-in-2019/) released in 2019 revealed that New orleans welcomed 19.75 million tourist in 2019. Those visitors spent 10.9 billion dollars, 2.9 billion of which was spent on lodging.
-
-While a novice might hear that statistic and think any property in New Orleans will do, even in a top tourism town like New Orleans that is not true. Not every investment property is a good one. Without a good understanding of the market and nightly rates, the chances of buying a bad investment property can rise.
+On Airbnb's [website](https://news.airbnb.com/about-us/) they revealed in June 2021 there were over 400 million hosts on airbnb and since 2008 hosts have earned over 150 billion dollars.
+ 
+A [report](https://www.bizneworleans.com/n-o-tourism-spending-break-records-in-2019/) released in 2019 revealed that New Orleans welcomed 19.75 million tourists in 2019. Those visitors spent 10.9 billion dollars, 2.9 billion of which was spent on lodging.
+ 
+While those statistics might make it seem like any property in New Orleans will do, even in a top tourism town like New Orleans that is not true. Not every investment property is a good one. Without a good understanding of the market and nightly rates, the chances of buying a bad investment property can rise.
  
 ## Data
 ---
