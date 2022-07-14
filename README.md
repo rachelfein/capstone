@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="Images/new_orleans_airbnb_page.png" width="650"/>
+<img align="right" src="Images/new_orleans_airbnb_page.png" width="580"/>
 </div>
 
 # New Orleans Airbnb Analysis
@@ -119,9 +119,12 @@ If you wish to reproduce this analysis, follow this [Kaggle link](https://www.ka
 ## Repository Structure
 ---
 
-├── data
-├── images
-├── Twitter_Sentiment_Analysis.ipynb
-├── Twitter_Sentiment_Presentation.pdf
-├── environment.yml
-└── README.md
+```
+├── Data
+├── Images
+├── Exploratory_Data_Analysis.ipynb
+├── Model.ipynb
+├── Airbnb_Analysis_Presentation.pdf
+├── README.md
+└── environment.yml
+```
