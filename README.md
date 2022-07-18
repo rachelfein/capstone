@@ -126,9 +126,9 @@ If you wish to reproduce this analysis, follow this [Kaggle link](https://www.ka
 ```
 ├── Data
 ├── Images
+├── Airbnb_Analysis_Presentation.pdf
 ├── Exploratory_Data_Analysis.ipynb
 ├── Model.ipynb
-├── Airbnb_Analysis_Presentation.pdf
 ├── README.md
 └── environment.yml
 ```
